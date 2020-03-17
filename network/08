@@ -1,0 +1,10 @@
+We need to know IP adress of slash16.org.
+Use "host slash16.org" or "nslookup slash16.org".
+
+slash16.org has address 13.33.243.186
+slash16.org has address 13.33.243.106
+slash16.org has address 13.33.243.195
+slash16.org has address 13.33.243.100
+
+To find provider we can use "whois 13.33.243.186".
+Provider: Amazon.
